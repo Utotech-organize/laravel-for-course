@@ -83,11 +83,7 @@
     </div>
 
     <!-- Footer -->
-    <footer class="text-center py-4 mt-auto" style="background-color: #343a40; color: white;">
-      <div class="container">
-        <p class="mb-0">&copy; 2024 My Blog. All Rights Reserved.</p>
-      </div>
-    </footer>
+
   </div>
 </body>
 
